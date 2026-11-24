@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.ipynb_checkpoints/
+# Dataset and generated model artifacts can be large.
+ecommerceDataset.csv
+artifacts/
