@@ -7,4 +7,4 @@ __pycache__/
 .ipynb_checkpoints/
 # Dataset and generated model artifacts can be large.
 ecommerceDataset.csv
-artifacts/
+
